@@ -25,3 +25,9 @@ It oalso provides oportunities to publishers to let know and commercialise their
 
 # WHAT'S UNIQUE
 
+What makes `IS` different from others is:
+- Our diverse set of notes, e-books, pamphlexes available which provides different approaches for better understanding.
+- Online classes organized by teachers which students can access at any time for review.
+- AI assistance for broad searching.
+- Proffessional guidance and oriientation.
+- Also a avery easy to use mibile app which offers several features at a lesser data consumption/
