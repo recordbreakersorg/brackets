@@ -29,4 +29,18 @@ Our values include:
 
 We need:
 - Mentorship and aid from our mentors.
-- Computing skills to build our product
+- Computing skills and materials to build our product
+
+# RULES AND ACTIVITIES
+
+- Respect and discipline towards each other.
+- Good communication among each other
+- Group work.
+
+# STRENGTHS AND OPORTUNITIES
+
+- **Alajemba**            : Good comprehension of economic and social concepts.
+- **Tandjou Wilfried**    : .
+- **Engon Ken Morel**     : Dev.
+- **Ngouajio Ange**       : Team social view and external relation manager.
+- **Mballa Mekongo Armel**: Team leader.
