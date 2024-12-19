@@ -40,4 +40,7 @@ What makes `IS` different from others is:
 - CHarges also levied on publishers to give them access to publisgh and commercialize their books.
 - Also charges levied on universities and schools which passes on advertisement via `IS`.
 
-#
+# INVESTMENT
+
+- Investment are Needed for the building and publishing of our starter application and hosting of it's backend. To provide ready use of our services and ensure
+  users reach their needs.
