@@ -23,6 +23,8 @@ All these lead to wrongly-oriented education which is a national matter.
 and students-teachers. With the help of  abiltated chat servers. And interchanging environment for academic related communicatiobn.
 It oalso provides oportunities to publishers to let know and commercialise their books which give studt access to a variety of methodologies..
 
+- Information about several scholarships, concours and competitions to students.
+
 # WHAT'S UNIQUE
 
 What makes `IS` different from others is:
@@ -30,4 +32,12 @@ What makes `IS` different from others is:
 - Online classes organized by teachers which students can access at any time for review.
 - AI assistance for broad searching.
 - Proffessional guidance and oriientation.
-- Also a avery easy to use mibile app which offers several features at a lesser data consumption/
+- Also a avery easy to use mibile app which offers several features at a lesser data consumption.
+
+# BUSSINASS MODEL
+
+- The record breakers project raising revenue by  levitting charges for permanent access to the fullness of the app features to schools.
+- CHarges also levied on publishers to give them access to publisgh and commercialize their books.
+- Also charges levied on universities and schools which passes on advertisement via `IS`.
+
+#
