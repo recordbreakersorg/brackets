@@ -1,46 +1,50 @@
-# PEOPLE and ROLES
+# Team Canvas for IS
 
-- **Alajemba**            : Team marketer.
-- **Tandjou Wilfried**    : Secretory.
-- **Engon Ken Morel**     : Dev.
-- **Ngouajio Ange**       : Team social view and external relation manager.
-- **Mballa Mekongo Armel**: Team leader.
+## People and Roles
 
-# COMMON GOALS
+* **Alajemba:** Marketing Lead
+* **Tandjou Wilfried:** Community Manager
+* **Engon Ken Morel:** Development Lead
+* **Ngouajio Ange:** External Relations Lead
+* **Mballa Mekongo Armel:** Team Lead
 
-- To build a tool which will promote education and reduce juvenile delinquency.
+## Common Goals
 
-# PERSONAL GOALS
+* Develop a tool to enhance education and reduce juvenile delinquency.
 
+## Personal Goals
 
-- **Alajemba**            : ...
-- **Tandjou Wilfried**    : Acquire skills and learn.
-- **Engon Ken Morel**     : Build, learn, pitch, train, compete, deploy!
-- **Ngouajio Ange**       : ...
-- **Mballa Mekongo Armel**: Build, learn, innovate.
+* **Alajemba:** Hone marketing and management skills.
+* **Tandjou Wilfried:** Gain new skills and knowledge.
+* **Engon Ken Morel:** Build, learn, pitch, train, compete, and deploy projects.
+* **Ngouajio Ange:** Acquire advanced computing and ICT skills.
+* **Mballa Mekongo Armel:** Build, learn, and innovate.
 
-# VALUE
+## Values
 
-Our values include:
-- We're out to improve our educational values.
-- Ensure growth and improvement of education in Cameroon.
+* **Educational Excellence:** We strive to improve educational standards.
+* **Growth and Innovation:** We are committed to continuous learning and development.
 
-# NEEDS and EXPECTATIONS
+## Needs and Expectations
 
-We need:
-- Mentorship and aid from our mentors.
-- Computing skills and materials to build our product
+* **Mentorship and Guidance:** We seek support from experienced mentors.
+* **Technical Resources:** We require access to computing resources and tools.
 
-# RULES AND ACTIVITIES
+## Rules and Activities
 
-- Respect and discipline towards each other.
-- Good communication among each other
-- Group work.
+* **Respect:** Treat each team member with respect.
+* **Effective Communication:** Maintain open and honest communication.
+* **Teamwork:** Collaborate effectively to achieve common goals.
 
-# STRENGTHS AND OPORTUNITIES
+## Strengths and Opportunities
 
-- **Alajemba**            : Good comprehension of economic and social concepts.
-- **Tandjou Wilfried**    : .
-- **Engon Ken Morel**     : Dev.
-- **Ngouajio Ange**       : Team social view and external relation manager.
-- **Mballa Mekongo Armel**: Team leader.
+* **Strong Marketing Skills:** Alajemba possesses a deep understanding of economic and social concepts.
+* **Effective Communication:** Tandjou Wilfried has experience in advertising and outreach.
+* **Technical Expertise:** Engon Ken Morel has a strong foundation in development and backend programming.
+* **Competitive Experience:** Ngouajio Ange has participated in tech competitions.
+* **Leadership and Innovation:** Mballa Mekongo Armel excels in leadership, pitching, and innovation.
+
+## Weaknesses and Threats
+
+* **Limited Financial Resources:** We have limited funds to support our project.
+* **Skill Gaps:** We may need to acquire additional skills in specific areas of ICT.
