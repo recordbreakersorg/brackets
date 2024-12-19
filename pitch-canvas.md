@@ -22,3 +22,6 @@ All these lead to wrongly-oriented education which is a national matter.
 `IS` provides a platform which renders seamless interchange between parents-school, school-students,
 and students-teachers. With the help of  abiltated chat servers. And interchanging environment for academic related communicatiobn.
 It oalso provides oportunities to publishers to let know and commercialise their books which give studt access to a variety of methodologies..
+
+# WHAT'S UNIQUE
+
