@@ -16,3 +16,8 @@ Nowadays, several students lack the necessary resources for their studies which 
 All these lead to wrongly-oriented education which is a national matter.
 
 **The Record Breakers** Is out to solve this  upgrowing calamity
+
+# PRODUCT
+
+`IS` provides a platform which renders seamless interchange between parents-school, school-students,
+and students-teachers. With the help of  abiltated chat servers. And interchanging environment for academic related communicatiobn.
