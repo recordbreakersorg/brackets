@@ -44,7 +44,7 @@
     - Scale up to nationwide implementation  
     - **Future Enhancements:**  
       - **AI-driven Chat Bot:** For instant support and information sharing  
-      - **Professional Guidance & Orientation Chat Bot:** To help students make informed career and academic decisions  
+      - **Professional Guidance:** To help students make informed career and academic decisions
       - **Online Bookshop:** Providing easy access to study materials and educational resources  
       - **24/7 Course Accessibility:** Reviewable courses available anytime to support continuous learning  
     - Explore partnerships with government and educational NGOs  
