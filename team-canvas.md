@@ -3,8 +3,8 @@
 ## People and Roles
 
 * **Alajemba:** Marketing Lead
-* **Tandjou Wilfried:** Community Manager
-* **Engon Ken Morel:** Development Lead
+* **Tandjou Wilfried:** Community Manager Aid
+* **Engon Ken Morel:** Backend dev
 * **Ngouajio Ange:** External Relations Lead
 * **Mballa Mekongo Armel:** Team Lead
 
@@ -40,7 +40,7 @@
 
 * **Strong Marketing Skills:** Alajemba possesses a deep understanding of economic and social concepts.
 * **Effective Communication:** Tandjou Wilfried has experience in advertising and outreach.
-* **Technical Expertise:** Engon Ken Morel has a strong foundation in development and backend programming.
+* **Technical Expertise:** ama has a strong foundation in development and backend programming.
 * **Competitive Experience:** Ngouajio Ange has participated in tech competitions.
 * **Leadership and Innovation:** Mballa Mekongo Armel excels in leadership, pitching, and innovation.
 
